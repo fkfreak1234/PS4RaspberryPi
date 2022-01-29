@@ -6,7 +6,7 @@
 #
 # The "F" entries can be:
 #
-# - A directory, in which case all patches touching any file in this
+# - dfdsfsdfsfsdfA directory, in which case all patches touching any file in this
 #   directory or its subdirectories will be CC'ed to the developer.
 # - A pattern, in which case the pattern will be expanded, and then
 #   all files/directories (and their subdirectories) will be
